@@ -8,7 +8,7 @@ I've been a software engineering student for 3 years now, but I coded long befor
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [danilozovoy@gmail.com](mailto:danilozovoy@gmail.com)
-* 🚀  I'm currently working on [Time Boost](http://github.com/lozovoyDanil/time-boost)
+* 🚀  I'm currently working on [apz-pzpi-21-9-lozovyi-daniil]([http://github.com/lozovoyDanil/time-boost](https://github.com/lozovoyDanil/apz-pzpi-21-9-lozovyi-daniil))
 * 🧠  I'm learning Golang and Svelte
 * 🤝  I'm open to collaborating on open source projects, internships and trainee positions
 * ⚡  An officially certified part-time magician specializing in turning coffee and a few nights into urgent projects.
